@@ -1,6 +1,5 @@
 <?php
 @set_time_limit(0);
-//1
 $access_id = ''; //填入access_id
 $access_key = '';//填入access_key
 $upload_api = 'http://upload.dvr.aodianyun.com/v2'; //上传接口地址
